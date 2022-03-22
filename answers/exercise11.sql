@@ -1,1 +1,1 @@
-GET * FROM TABLE Students WHERE Country NOT IN ('Sint Maarten', 'Haiti')
+GET * FROM TABLE Students WHERE Country IN ('Sint Maarten', 'Haiti')
